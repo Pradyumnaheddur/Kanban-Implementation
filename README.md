@@ -1,8 +1,8 @@
-# Kanban Implementation in spare parts packing department
+# Kanban Implementation for Kitting Department
 
 
 ![Screenshot 2024-08-30 151647](https://github.com/user-attachments/assets/c0c03cf2-b904-458a-b49a-3b241271fbac)
-#Kanban Implementation for Kitting Department
+
 Overview
 This project documents the Kanban System Implementation for the Kitting Department at Bosch, aimed at optimizing material flow and improving production efficiency. The primary goal of the Kanban system is to control inventory flow, minimize excess stock, and synchronize the material supply chain with production needs.
 
